@@ -1,3 +1,3 @@
-FROM alpine:3.12
+FROM quay.io/wire/alpine-git
 
 RUN echo "foo" > /foo
